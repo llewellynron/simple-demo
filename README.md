@@ -1,2 +1,3 @@
-# simple-demo
+# Simple Example Repository
+
 simple-demo for learning
